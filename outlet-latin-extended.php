@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Outlet Latin Extended
-Plugin URI: http://webikon.sk/
+Plugin URI: https://github.com/Webikon/Outlet-Latin-Extended
 Description: Load latin extended fonts for Outlet (Storefront child theme)
 Version: 0.1
 Author: Webikon (Juraj Kiss)
